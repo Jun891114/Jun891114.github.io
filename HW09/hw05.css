@@ -1,0 +1,22 @@
+body {
+  background-image: url(1.jpg);
+  background-repeat: repeat;
+  background-color: rgb(245, 241, 241);
+}
+table {
+  font-size: 0.3em;
+  border-spacing: 5px;
+  background-color: rgb(99, 166, 204);
+}
+td {
+  border-width: 5px;
+}
+.item1 {
+  border-left: solid #42c7c7 1.5em;
+}
+.item2 {
+  border-left: solid #3366ff 1.5em;
+}
+.item3 {
+  border-left: solid #944c78 1.5em;
+}
